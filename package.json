@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tomato1125/TypeScript-practice/issues"
   },
-  "homepage": "https://github.com/tomato1125/TypeScript-practice#readme"
+  "homepage": "https://github.com/tomato1125/TypeScript-practice#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
