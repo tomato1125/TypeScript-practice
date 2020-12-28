@@ -21,5 +21,3 @@ const example2: Profile = {
 };
 
 type Profiles2 = typeof example1;
-
-}
